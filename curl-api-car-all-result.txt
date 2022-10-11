@@ -1,0 +1,22 @@
+PS C:\Users\mbidzins> curl http://40.74.33.186:3000/api/car/all
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : [{"carId":"645fb660-d007-43d3-88d5-5d2813aa8175","carMaker":"Fiat","carModel":"Multipla"},{"carId":
+                    "1ce3f6a9-e0d1-451c-be36-48b49726938c","carMaker":"Renault","carModel":"Clio"}]
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Content-Length: 178
+                    Content-Type: application/json; charset=utf-8
+                    Date: Tue, 11 Oct 2022 21:10:15 GMT
+                    ETag: W/"b2-dUaGNkrDYraOtb8UJXbj8LCkAOc"
+                    X-Powered-By...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [Content-Length, 178], [Content-Type, application/json; charset=utf-8],
+                    [Date, Tue, 11 Oct 2022 21:10:15 GMT]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 178
